@@ -117,4 +117,3 @@ Group project by **Junjie Mo, Zibo Cheng, Zhinan Chen and Haoxuan Suo** (Departm
 - Tan & Le, *EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks*, ICML 2019
 - Hendrycks & Dietterich, *Benchmarking Neural Network Robustness to Common Corruptions and Perturbations*, ICLR 2019
 - Zauner, *Implementation and Benchmarking of Perceptual Image Hash Functions*, 2010
-# CS4452-Final-Project
