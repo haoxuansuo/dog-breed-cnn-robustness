@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 260" width="860" height="260">
+<rect width="860" height="260" fill="#ffffff"/>
+<line x1="50" x2="830" y1="210" y2="210" stroke="#e5e7eb"/><text x="42" y="214" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#6b7280" text-anchor="end">0</text>
+<line x1="50" x2="830" y1="174" y2="174" stroke="#e5e7eb"/><text x="42" y="178" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#6b7280" text-anchor="end">50</text>
+<line x1="50" x2="830" y1="138" y2="138" stroke="#e5e7eb"/><text x="42" y="142" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#6b7280" text-anchor="end">100</text>
+<line x1="50" x2="830" y1="102" y2="102" stroke="#e5e7eb"/><text x="42" y="106" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#6b7280" text-anchor="end">150</text>
+<line x1="50" x2="830" y1="66" y2="66" stroke="#e5e7eb"/><text x="42" y="70" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#6b7280" text-anchor="end">200</text>
+<line x1="50" x2="830" y1="30" y2="30" stroke="#e5e7eb"/><text x="42" y="34" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#6b7280" text-anchor="end">250</text>
+<rect x="51.0" y="44.4" width="6.9" height="165.6" fill="#2563eb"/>
+<rect x="59.9" y="48.0" width="6.9" height="162.0" fill="#2563eb"/>
+<rect x="68.7" y="66.0" width="6.9" height="144.0" fill="#2563eb"/>
+<rect x="77.6" y="67.4" width="6.9" height="142.6" fill="#2563eb"/>
+<rect x="86.5" y="70.3" width="6.9" height="139.7" fill="#2563eb"/>
+<rect x="95.3" y="73.9" width="6.9" height="136.1" fill="#2563eb"/>
+<rect x="104.2" y="73.9" width="6.9" height="136.1" fill="#2563eb"/>
+<rect x="113.0" y="77.5" width="6.9" height="132.5" fill="#2563eb"/>
+<rect x="121.9" y="77.5" width="6.9" height="132.5" fill="#2563eb"/>
+<rect x="130.8" y="78.2" width="6.9" height="131.8" fill="#2563eb"/>
+<rect x="139.6" y="82.6" width="6.9" height="127.4" fill="#2563eb"/>
+<rect x="148.5" y="83.3" width="6.9" height="126.7" fill="#2563eb"/>
+<rect x="157.4" y="84.7" width="6.9" height="125.3" fill="#2563eb"/>
+<rect x="166.2" y="85.4" width="6.9" height="124.6" fill="#2563eb"/>
+<rect x="175.1" y="85.4" width="6.9" height="124.6" fill="#2563eb"/>
+<rect x="184.0" y="86.2" width="6.9" height="123.8" fill="#2563eb"/>
+<rect x="192.8" y="87.6" width="6.9" height="122.4" fill="#2563eb"/>
+<rect x="201.7" y="88.3" width="6.9" height="121.7" fill="#2563eb"/>
+<rect x="210.5" y="89.0" width="6.9" height="121.0" fill="#2563eb"/>
+<rect x="219.4" y="90.5" width="6.9" height="119.5" fill="#2563eb"/>
+<rect x="228.3" y="93.4" width="6.9" height="116.6" fill="#2563eb"/>
+<rect x="237.1" y="95.5" width="6.9" height="114.5" fill="#2563eb"/>
+<rect x="246.0" y="96.2" width="6.9" height="113.8" fill="#2563eb"/>
+<rect x="254.9" y="97.0" width="6.9" height="113.0" fill="#2563eb"/>
+<rect x="263.7" y="98.4" width="6.9" height="111.6" fill="#2563eb"/>
+<rect x="272.6" y="99.1" width="6.9" height="110.9" fill="#2563eb"/>
+<rect x="281.5" y="99.1" width="6.9" height="110.9" fill="#2563eb"/>
+<rect x="290.3" y="102.0" width="6.9" height="108.0" fill="#2563eb"/>
+<rect x="299.2" y="102.0" width="6.9" height="108.0" fill="#2563eb"/>
+<rect x="308.0" y="102.7" width="6.9" height="107.3" fill="#2563eb"/>
+<rect x="316.9" y="102.7" width="6.9" height="107.3" fill="#2563eb"/>
+<rect x="325.8" y="103.4" width="6.9" height="106.6" fill="#2563eb"/>
+<rect x="334.6" y="103.4" width="6.9" height="106.6" fill="#2563eb"/>
+<rect x="343.5" y="103.4" width="6.9" height="106.6" fill="#2563eb"/>
+<rect x="352.4" y="104.2" width="6.9" height="105.8" fill="#2563eb"/>
+<rect x="361.2" y="104.2" width="6.9" height="105.8" fill="#2563eb"/>
+<rect x="370.1" y="104.2" width="6.9" height="105.8" fill="#2563eb"/>
+<rect x="379.0" y="104.9" width="6.9" height="105.1" fill="#2563eb"/>
+<rect x="387.8" y="104.9" width="6.9" height="105.1" fill="#2563eb"/>
+<rect x="396.7" y="107.0" width="6.9" height="103.0" fill="#2563eb"/>
+<rect x="405.5" y="107.8" width="6.9" height="102.2" fill="#2563eb"/>
+<rect x="414.4" y="108.5" width="6.9" height="101.5" fill="#2563eb"/>
+<rect x="423.3" y="108.5" width="6.9" height="101.5" fill="#2563eb"/>
+<rect x="432.1" y="109.2" width="6.9" height="100.8" fill="#2563eb"/>
+<rect x="441.0" y="109.9" width="6.9" height="100.1" fill="#2563eb"/>
+<rect x="449.9" y="109.9" width="6.9" height="100.1" fill="#2563eb"/>
+<rect x="458.7" y="109.9" width="6.9" height="100.1" fill="#2563eb"/>
+<rect x="467.6" y="110.6" width="6.9" height="99.4" fill="#2563eb"/>
+<rect x="476.5" y="110.6" width="6.9" height="99.4" fill="#2563eb"/>
+<rect x="485.3" y="111.4" width="6.9" height="98.6" fill="#2563eb"/>
+<rect x="494.2" y="111.4" width="6.9" height="98.6" fill="#2563eb"/>
+<rect x="503.0" y="112.1" width="6.9" height="97.9" fill="#2563eb"/>
+<rect x="511.9" y="112.1" width="6.9" height="97.9" fill="#2563eb"/>
+<rect x="520.8" y="112.1" width="6.9" height="97.9" fill="#2563eb"/>
+<rect x="529.6" y="112.1" width="6.9" height="97.9" fill="#2563eb"/>
+<rect x="538.5" y="112.8" width="6.9" height="97.2" fill="#2563eb"/>
+<rect x="547.4" y="112.8" width="6.9" height="97.2" fill="#2563eb"/>
+<rect x="556.2" y="112.8" width="6.9" height="97.2" fill="#2563eb"/>
+<rect x="565.1" y="112.8" width="6.9" height="97.2" fill="#2563eb"/>
+<rect x="574.0" y="113.5" width="6.9" height="96.5" fill="#2563eb"/>
+<rect x="582.8" y="113.5" width="6.9" height="96.5" fill="#2563eb"/>
+<rect x="591.7" y="113.5" width="6.9" height="96.5" fill="#2563eb"/>
+<rect x="600.5" y="114.2" width="6.9" height="95.8" fill="#2563eb"/>
+<rect x="609.4" y="115.0" width="6.9" height="95.0" fill="#2563eb"/>
+<rect x="618.3" y="115.7" width="6.9" height="94.3" fill="#2563eb"/>
+<rect x="627.1" y="116.4" width="6.9" height="93.6" fill="#2563eb"/>
+<rect x="636.0" y="116.4" width="6.9" height="93.6" fill="#2563eb"/>
+<rect x="644.9" y="117.1" width="6.9" height="92.9" fill="#2563eb"/>
+<rect x="653.7" y="117.1" width="6.9" height="92.9" fill="#2563eb"/>
+<rect x="662.6" y="117.1" width="6.9" height="92.9" fill="#2563eb"/>
+<rect x="671.5" y="117.1" width="6.9" height="92.9" fill="#2563eb"/>
+<rect x="680.3" y="118.6" width="6.9" height="91.4" fill="#2563eb"/>
+<rect x="689.2" y="119.3" width="6.9" height="90.7" fill="#2563eb"/>
+<rect x="698.0" y="120.0" width="6.9" height="90.0" fill="#2563eb"/>
+<rect x="706.9" y="120.0" width="6.9" height="90.0" fill="#2563eb"/>
+<rect x="715.8" y="120.7" width="6.9" height="89.3" fill="#2563eb"/>
+<rect x="724.6" y="124.3" width="6.9" height="85.7" fill="#2563eb"/>
+<rect x="733.5" y="126.5" width="6.9" height="83.5" fill="#2563eb"/>
+<rect x="742.4" y="127.9" width="6.9" height="82.1" fill="#2563eb"/>
+<rect x="751.2" y="128.6" width="6.9" height="81.4" fill="#2563eb"/>
+<rect x="760.1" y="130.8" width="6.9" height="79.2" fill="#2563eb"/>
+<rect x="769.0" y="133.0" width="6.9" height="77.0" fill="#2563eb"/>
+<rect x="777.8" y="137.3" width="6.9" height="72.7" fill="#2563eb"/>
+<rect x="786.7" y="138.7" width="6.9" height="71.3" fill="#2563eb"/>
+<rect x="795.5" y="187.7" width="6.9" height="22.3" fill="#2563eb"/>
+<rect x="804.4" y="193.4" width="6.9" height="16.6" fill="#2563eb"/>
+<rect x="813.3" y="198.5" width="6.9" height="11.5" fill="#2563eb"/>
+<rect x="822.1" y="202.1" width="6.9" height="7.9" fill="#2563eb"/>
+<text x="440" y="234" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#6b7280" text-anchor="middle">88 breeds, sorted by image count (min 11, median 140, max 230)</text>
+</svg>
