@@ -77,7 +77,7 @@ Metrics: top-1 and top-3 accuracy, per-class precision / recall / F1, confusion 
 ## Run it
 
 ```bash
-git clone https://github.com/Noobtatic/dog-breed-cnn-robustness.git
+git clone https://github.com/haoxuansuo/dog-breed-cnn-robustness.git
 cd dog-breed-cnn-robustness
 pip install -r requirements.txt
 ```
